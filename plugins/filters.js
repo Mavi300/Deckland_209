@@ -1,6 +1,6 @@
-/* Copyright (C) 2020 farhan-dqz.
-re codded by Amal
-Amalser_v1 
+/* Copyright (C) 2024 Deckland.
+re codded by Deckland 
+Deckland_v1 
 */
 const fs = require('fs')
 const Asena = require('../events');
@@ -51,8 +51,8 @@ Asena.addCommand({on: 'text', fromMe: false }, (async (message, match) => {
     if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '919895828468@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
+        if (!!message.mention && message.mention[0] == '2349018045823@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Deckland.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
 const array = ['kalam']
 array.map( async (a) => {
@@ -74,7 +74,7 @@ if(pattern.test(message.message)){
     );
 }));
 }
-else if (Config.WORKTYPE == 'public') {
+else if (Config.WORKTYPE == 'private') {
 
 Asena.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC, dontAddCommandList: true}, (async (message, match) => {
     match = match[1].match(/[\'\"\“](.*?)[\'\"\“]/gsm);
