@@ -18,7 +18,9 @@ Click WA logo to Join Support Group 👇
 
   ## PAIRING CODE/QR
 
-    .[(https://replit.com/@emmabahdo2020/DecklandPairingcodeQR?v=1)]
+
+    .[![Session ID](https://replit.com/@emmabahdo2020/DecklandPairingcodeQR?v=1)
+   </div>
    
 ## Setup
 <div align="center">
