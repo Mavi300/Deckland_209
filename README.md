@@ -14,7 +14,8 @@ Click WA logo to Join Support Group 👇
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
   </div>
-    
+    <div align="center">
+      .[![https://replit.com/@emmabahdo2020/DecklandPairingcodeQR?v=1).
 ## Setup
 <div align="center">
 
@@ -22,7 +23,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/richusir/Amalser_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mavi300/Deckland_209)
      </div>
 <br>
 <br >
