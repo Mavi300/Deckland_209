@@ -15,7 +15,11 @@ Click WA logo to Join Support Group 👇
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
   </div>
     <div align="center">
-      .[![https://replit.com/@emmabahdo2020/DecklandPairingcodeQR?v=1).
+
+  ## PAIRING CODE/QR
+
+    .[(https://replit.com/@emmabahdo2020/DecklandPairingcodeQR?v=1)]
+   
 ## Setup
 <div align="center">
 
