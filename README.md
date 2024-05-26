@@ -16,7 +16,9 @@ Click WA logo to Join Support Group 👇
   </div>
     <div align="center">
 
-  ## PAIRING CODE/QR
+  ## FORK 
+
+ https://github.com/Mavi300/Deckland_209/fork
 
 
     .[![(https://replit.com/@emmabahdo2020/DecklandPairingcodeQR?v=1)].
