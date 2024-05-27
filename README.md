@@ -5,6 +5,10 @@
 <div align="center">
   <img src=mercedes-benz.jpg>
 
+  ## SCAN
+  https://qr-code-generator-eta-green.vercel.app/target="_"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=openv&logoColor=white'/></a>
+  
+
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
