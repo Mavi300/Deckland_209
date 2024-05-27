@@ -3,7 +3,7 @@
     "description": "Deckland_209 project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Mavi300/Deckland_209/blob/master/app.json",
+    "repository": "https://github.com/Mavi300/Deckland_209",
     "website":   "maintainence",
     "success_url": "maintainence",
     "stack": "container",
