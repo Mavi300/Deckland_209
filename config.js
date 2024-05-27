@@ -17,7 +17,7 @@ global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github=process.env.GITHUB|| "https://github.com/Mavi300";
+global.github=process.env.GITHUB|| "https://github.com/Mavi300/Deckland_209";
 global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/F9qmzohtadx6qjmuqfuMC5";
 global.website=process.env.GURL || "https://chat.whatsapp.com/F9qmzohtadx6qjmuqfuMC5" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/Mavi300/Deckland_209/edit/master/config.js" ; // SET LOGO FOR IMAGE 
@@ -59,7 +59,7 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "2349018045823,234xxxxxxxx";
 
 global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel.app" // expires
-global.scan = "https://suhail-md-vtsf.onrender.com";
+global.scan = "https://deckland_209-vtsf.onrender.com";
 
 
 global.SESSION_ID = process.env.SESSION_ID ||  ""  // PUT your SESSION_ID 
@@ -125,7 +125,7 @@ global.aitts_Voice_Id = process.env.AITTS_ID|| "37";
 
 global.rank = "updated"
 global.isMongodb = false; 
-let file = require.resolve(__filename)
+let file = require.resolve(__decky_209)
 fs.watchFile(file, () => { fs.unwatchFile(file);console.log(`Update'${__filename}'`);delete require.cache[file];	require(file); })
  
 
