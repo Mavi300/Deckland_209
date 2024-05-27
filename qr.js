@@ -1,10 +1,10 @@
-/* Copyright (C) 2020 Yugsuf Usta.
-PINKY V2
+/* Copyright (C) 2024 Deckland 
+Deckland_209
 */
 
 const chalk = require('chalk');
 const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/baileys');
-const {StringSession} = require('./whatsasena/');
+const {StringSession} = require('./deckland_209/');
 const fs = require('fs');
 
 async function whatsAsena () {
@@ -23,13 +23,13 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
     
 
     conn.on('open', async () => {
-        var st = Session.createStringSession(conn.base64EncodedAuthInfo());
+        var st = Session.createStringSession(conn.base64EncodedAuthInfo(open));
         console.log(
             chalk.green.bold('Asena String Kodunuz: '), Session.createStringSession(conn.base64EncodedAuthInfo())
         );
         
         if (!fs.existsSync('config.env')) {
-            fs.writeFileSync('config.env', `ASENA_SESSION="${st}"`);
+            fs.writeFileSync('config.env', `SESSION="${st}"`);
         }
         if (conn.user.jid.startsWith('90')) {
             await conn.sendMessage(conn.user.jid,st, MessageType.text)
@@ -52,4 +52,4 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
     await conn.connect();
 }
 
-whatsAsena()
+Deckland_209
